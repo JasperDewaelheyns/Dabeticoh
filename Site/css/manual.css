@@ -1,0 +1,54 @@
+body {
+	background: url(images/achtergrond.jpg) repeat;
+	background-size: cover;
+	padding-top: 90px;
+	padding-left: 30px;
+	
+}
+
+h1 {
+	color:white;
+}
+
+li {
+	margin-top:18px;
+}
+
+li:active {
+	border-radius:20px;
+}
+
+li:hover {
+	background-color:white;
+	border-radius:20px;
+}
+
+li.actief {
+	background-color:white;
+	border-radius:20px;
+	color:black;
+}
+
+.navbar {
+	background-color:black;
+}
+
+.logo {
+	height:90px;
+}
+
+.vraag {
+	color:white;
+}
+
+.antwoord {
+	padding-left:10px;
+}
+
+.contact {
+	margin-top:60px;
+	margin-right:50px;
+	padding-left:10px;
+	border:solid;
+	border-color:white;
+}
